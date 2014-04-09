@@ -1,0 +1,16 @@
+-- Logging started at Wed Apr 09 02:46:56 2014 --
+I: Application Information:
+   Application Author: n3031077
+   Application Name:   PRG [ User ID: 'n3031077' ] :: Flakey Snakey Aplha 0.0.1.
+I: OpenGL info:
+   Vendor:   ATI Technologies Inc.
+   Renderer: AMD Radeon HD 6900 Series
+   Version:  4.3.12614 Compatibility Profile Context 13.250.18.0
+I: Next state to become active: main
+I: Timer 0 has started.
+I: Timer 1 has started.
+I: Application activity state changed to: main
+I: Next state to become active: pause
+I: Timer 0 has stopped
+I: Timer 1 has stopped
+I: Timer 0 has started.
